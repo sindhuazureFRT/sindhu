@@ -1,0 +1,22 @@
+{
+  "name": "adept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindhuazureFRT/sindhu.git"
+  },
+  "author": "sindhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sindhuazureFRT/sindhu/issues"
+  },
+  "homepage": "https://github.com/sindhuazureFRT/sindhu#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
